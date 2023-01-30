@@ -1,0 +1,15 @@
+/Users/alx/Учеба/LeetCode/189_2/task189/bin/Debug/net6.0/task189
+/Users/alx/Учеба/LeetCode/189_2/task189/bin/Debug/net6.0/task189.deps.json
+/Users/alx/Учеба/LeetCode/189_2/task189/bin/Debug/net6.0/task189.runtimeconfig.json
+/Users/alx/Учеба/LeetCode/189_2/task189/bin/Debug/net6.0/task189.dll
+/Users/alx/Учеба/LeetCode/189_2/task189/bin/Debug/net6.0/task189.pdb
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.csproj.AssemblyReference.cache
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.AssemblyInfoInputs.cache
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.AssemblyInfo.cs
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.csproj.CoreCompileInputs.cache
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.dll
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/refint/task189.dll
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.pdb
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/task189.genruntimeconfig.cache
+/Users/alx/Учеба/LeetCode/189_2/task189/obj/Debug/net6.0/ref/task189.dll

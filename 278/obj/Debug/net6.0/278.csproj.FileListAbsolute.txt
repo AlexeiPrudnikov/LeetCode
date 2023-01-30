@@ -1,0 +1,15 @@
+/Users/alx/Учеба/LeetCode/278/bin/Debug/net6.0/278
+/Users/alx/Учеба/LeetCode/278/bin/Debug/net6.0/278.deps.json
+/Users/alx/Учеба/LeetCode/278/bin/Debug/net6.0/278.runtimeconfig.json
+/Users/alx/Учеба/LeetCode/278/bin/Debug/net6.0/278.dll
+/Users/alx/Учеба/LeetCode/278/bin/Debug/net6.0/278.pdb
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.csproj.AssemblyReference.cache
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.AssemblyInfoInputs.cache
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.AssemblyInfo.cs
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.csproj.CoreCompileInputs.cache
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.dll
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/refint/278.dll
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.pdb
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/278.genruntimeconfig.cache
+/Users/alx/Учеба/LeetCode/278/obj/Debug/net6.0/ref/278.dll

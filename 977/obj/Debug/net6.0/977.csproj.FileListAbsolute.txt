@@ -1,0 +1,15 @@
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.csproj.AssemblyReference.cache
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.AssemblyInfoInputs.cache
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.AssemblyInfo.cs
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.csproj.CoreCompileInputs.cache
+/Users/alx/Учеба/LeetCode/977/bin/Debug/net6.0/977
+/Users/alx/Учеба/LeetCode/977/bin/Debug/net6.0/977.deps.json
+/Users/alx/Учеба/LeetCode/977/bin/Debug/net6.0/977.runtimeconfig.json
+/Users/alx/Учеба/LeetCode/977/bin/Debug/net6.0/977.dll
+/Users/alx/Учеба/LeetCode/977/bin/Debug/net6.0/977.pdb
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.dll
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/refint/977.dll
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.pdb
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/977.genruntimeconfig.cache
+/Users/alx/Учеба/LeetCode/977/obj/Debug/net6.0/ref/977.dll
